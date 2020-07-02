@@ -6,4 +6,5 @@ To solve a sudoku puzzle, create a file and write the sudoku puzzle all in one l
 
 Example sudoku puzzles are provided. 
 
-python3 solver.py [path/to/puzzles]
+## Usage
+    python3 solver.py [path/to/puzzles]
